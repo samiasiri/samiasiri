@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Sami
 
-<!--
-**samiasiri/samiasiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Automation Builder — Learning in Public
 
-Here are some ideas to get you started:
+I'm building practical skills in AI automation, starting from the fundamentals and progressing toward production-ready automation systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is not just learning tools — it's building real projects, documenting the process, and solving practical problems.
+
+---
+
+## Current Focus
+
+- Python fundamentals
+- Git & GitHub
+- REST APIs & JSON
+- Automation workflows
+
+## Roadmap
+
+I'm following a structured 52-week roadmap covering:
+
+`Python` → `APIs` → `n8n` → `PostgreSQL` → `LLM APIs` → `RAG` → `AI Agents` → `MCP` → `Docker` → `Cloud`
+
+---
+
+## Projects
+
+This portfolio is being built from scratch.
+
+Projects will be added here as I progress through the roadmap.
+
+**Current stage:** Building the foundations.
+
+---
+
+## Long-Term Direction
+
+Building reliable AI automation systems that connect:
+
+**AI + APIs + Business Processes + Data**
+
+with a focus on practical, measurable automation.
+
+---
+
+> Build. Test. Document. Improve.
