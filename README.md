@@ -25,9 +25,10 @@ I'm following a structured 52-week roadmap covering:
 
 ## Projects
 
-This portfolio is being built from scratch.
+### [API Status Checker](./projects/api-status-checker/)
+A dependency-free Python CLI that checks websites and APIs in parallel, measures response time, exports JSON reports, and supports CI-friendly failure codes.
 
-Projects will be added here as I progress through the roadmap.
+More projects will be added as I progress through the roadmap.
 
 **Current stage:** Building the foundations.
 
