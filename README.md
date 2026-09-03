@@ -2,57 +2,79 @@
 
 ### AI Automation Builder
 
-I build practical automation projects around **Python, APIs, AI agents, and business workflows**.
+I build practical automation systems around **Python, APIs, AI agents, and business workflows**.
 
-My focus is moving from fundamentals to production-minded systems: small projects that work, clear documentation, automated testing, and progressively more capable AI automation.
-
----
-
-## Current Focus
-
-`Python` · `REST APIs` · `JSON` · `Git/GitHub` · `CI` · `n8n` · `AI Agents`
-
-Currently strengthening the engineering layer behind automation: writing cleaner Python, working with APIs, testing behavior, and building workflows that can be monitored and maintained.
+My work is focused on turning small, testable components into reliable automation: clear inputs and outputs, predictable failure handling, useful documentation, and measurable behavior.
 
 ---
 
-## Selected Projects
+## Core Stack
+
+`Python` · `REST APIs` · `JSON` · `Git/GitHub` · `GitHub Actions` · `n8n` · `LLM APIs` · `AI Agents`
+
+### What I Build
+
+- API and webhook utilities
+- AI agent workflows and evaluation tools
+- Business process automation
+- Guardrails, fallback paths, and human escalation
+- Small developer tools designed to be reusable and testable
+
+---
+
+## Selected Work
 
 ### [Python + APIs + CI](https://github.com/samiasiri/Python-APIs-CI)
-A dependency-free Python API health checker built as a real CLI project with concurrent requests, JSON reporting, automated tests, and GitHub Actions CI.
+A dependency-free Python API health checker with concurrent requests, latency reporting, JSON export, automated unit tests, and GitHub Actions CI.
+
+**Demonstrates:** Python CLI design · HTTP/APIs · concurrency · error handling · testing · CI
 
 ### NEXUS AI — Private Build
-An Arabic-first AI automation system for collecting, evaluating, and publishing high-signal technology content with memory, editorial stages, and publishing safety controls.
+An Arabic-first AI automation system for collecting, evaluating, and publishing high-signal technology content.
+
+The system uses persistent memory, deterministic deduplication, separate editorial stages, publishing guardrails, and automation workflows designed for unattended operation.
+
+**Focus:** AI agents · n8n · workflow orchestration · reliability · content automation
 
 ---
 
-## Engineering Direction
+## Engineering Principles
+
+**Reliability over demos**  
+A workflow should handle failure, not just the happy path.
+
+**Clear boundaries**  
+Agents should know what they can do, what they cannot do, and when to escalate.
+
+**Test before trust**  
+Important behavior should be testable and observable.
+
+**Simple before complex**  
+Start with the smallest useful system, then add complexity only when it solves a real problem.
+
+---
+
+## Direction
 
 ```text
-Python
-  ↓
-REST APIs + JSON
-  ↓
+Python + APIs
+      ↓
 Automation Workflows
-  ↓
+      ↓
 Databases + LLM APIs
-  ↓
+      ↓
 RAG + AI Agents
-  ↓
-MCP + Docker + Cloud
-  ↓
+      ↓
+MCP + Containers + Cloud
+      ↓
 Reliable Production Automation
 ```
 
-I care about more than getting a demo to run. The target is automation that has clear boundaries, handles failure, can be tested, and solves a measurable problem.
-
----
-
-## Building Next
+### Building Next
 
 - Arabic AI agent evaluation tools
-- Reusable n8n automation workflows
-- Agent guardrails and human escalation patterns
+- Reusable n8n workflow templates
+- Agent guardrail and escalation patterns
 - Webhook and API debugging utilities
 
 ---
