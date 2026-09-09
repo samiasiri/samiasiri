@@ -29,6 +29,13 @@ A dependency-free Python API health checker with concurrent requests, latency re
 
 **Demonstrates:** Python CLI design · HTTP/APIs · concurrency · error handling · testing · CI
 
+### Financial Decision Tool — In Progress
+A Python-based financial tool designed to produce accurate, clear, and explainable results with minimal user input.
+
+The product is being built around transparent calculations, strong validation, and outputs that users can understand instead of receiving unexplained numbers.
+
+**Focus:** Python · financial logic · validation · explainable outputs · reliability
+
 ### NEXUS AI — Private Build
 An Arabic-first AI automation system for collecting, evaluating, and publishing high-signal technology content.
 
