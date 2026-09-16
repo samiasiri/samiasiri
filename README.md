@@ -20,9 +20,11 @@ I am especially interested in systems that can operate with clear rules, persist
 ## Featured Projects
 
 ### SAAD — Arabic AI Publishing Agent
-An Arabic-first autonomous AI publishing system designed to discover, evaluate, and publish high-signal technology content under explicit editorial rules.
+A live Arabic-first autonomous AI publishing system designed to discover, evaluate, and publish high-signal technology content under explicit editorial rules.
 
 The system is built around staged processing rather than a single prompt: content collection, normalization, AI analysis, quality filtering, duplicate prevention, editorial decisions, publishing guardrails, and persistent state.
+
+**Status:** Live production since September 15, 2026
 
 **Highlights:**
 - Multi-stage AI agent workflow
