@@ -19,7 +19,7 @@ I am especially interested in systems that can operate with clear rules, persist
 
 ## Featured Projects
 
-### SAAD — Arabic AI Publishing Agent
+### [SAAD — Arabic AI Publishing Agent](https://github.com/samiasiri/nexus-ai)
 A live Arabic-first autonomous AI publishing system designed to discover, evaluate, and publish high-signal technology content under explicit editorial rules.
 
 The system is built around staged processing rather than a single prompt: content collection, normalization, AI analysis, quality filtering, duplicate prevention, editorial decisions, publishing guardrails, and persistent state.
@@ -87,7 +87,7 @@ A dependency-free Python API health checker with concurrent requests, latency re
 
 **Currently expanding into:**
 
-`Databases` · `RAG` · `MCP` · `Containers` · `Cloud Deployment` · `Local AI Development`
+`Databases` · `RAG` · `MCP` · `Containers` · `Cloud Deployment`
 
 ---
 
@@ -137,7 +137,6 @@ I am currently building toward increasingly autonomous systems while keeping con
 - Arabic-first AI products
 - API and webhook integrations
 - Decision-support software
-- Local AI development environments
 - Reliable autonomous workflows
 - Human-in-the-loop system design
 
